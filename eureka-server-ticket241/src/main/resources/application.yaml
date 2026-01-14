@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: eureka-server-ticket241
+server:
+  port: 8781
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+
